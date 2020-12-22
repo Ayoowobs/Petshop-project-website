@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+	background-color: darkslategray;
+	margin: 0;
+	padding: 0;
+	font-family: 'Dancing Script', cursive;
+
+
+}
+img{
+	size: 300px;
+	height: 250px;
+	width: 400px;
+	border-radius: 8px;
+}
+a {
+  color: #F7FFF7;
+  background: #2F3061;
+  text-decoration: none;
+  padding: 8px;
+  border-radius: 4px;
+  display: inline-block;
+
+}
+a:hover {
+  background: rgba(47, 48, 97, 80%);
+}
+
+
+h2{
+	color: indianred;
+
+}
+
+h3{
+	font-family: 'Courgette', cursive;
+	color: deeppink;
+
+}
+
+.individual-pet{
+	text-align: center;
+	font-size: 30px;
+	background-color: antiquewhite;
+	padding: 10px;
+	width: 1000px;
+	margin: 0 auto;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-weight: normal;
+	line-height: 40px;
+}
+
+header{
+	font-size: 40px;
+	background-color: sienna;
+	padding: 10px;
+	border-radius: 8px;
+
+}
+
+
+
+
+header, img{
+	text-align: center;
+}
+
+img{
+	size: 300px;
+	height: 250px;
+	width: 400px;
+	border-radius: 8px;
+}
+#all-pets{
+	color: indigo;
+	background: lightgreen;
+	border-radius: 8px;
+	
+}
+
+span{
+	display: inline-block;
+	margin-right: 40px;
+
+}
+footer{
+	background-size: 300px;
+	border-style: double;
+	background-color: teal;
+	text-align: center;
+	border-radius: 8px;
+	font-size: 25px;
+	
+}
+
+	
